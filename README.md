@@ -1,5 +1,4 @@
 <h6>Hello world. We meet again.</h6>
-Hi, I'm Chris. Just an old dude that's been doing 1s and 0s since the C64 days in the mid '80s and forever a DIYer. 
 
 Past 25 years or so I've been a Microsoft tech stack dev with a penchant for industrial automation interfacing. Since leaving the corporate world at the end of 2021, I've gravitated towards home automation and IoT; but still all about C# MVC design pattern web applications. 
 
