@@ -3,7 +3,7 @@
 Past 25 years or so I've been a Microsoft tech stack dev with a penchant for industrial automation interfacing. Since leaving the corporate world at the end of 2021, I've gravitated towards home automation and IoT; but still all about C# MVC design pattern web applications. 
 
 Interests -
-ESP32, C#, home automation, CJ7 jeeps.
+ESP32, C#, automation (home, office, industrial), CJ7 jeeps.
 
 
 <!---
