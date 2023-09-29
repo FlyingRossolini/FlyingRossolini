@@ -1,6 +1,6 @@
 
 
-Past 25 years or so I've been a Microsoft tech stack dev with a penchant for industrial automation interfacing and line of business web application. At the end of 2021, I've gravitated towards home automation and IoT; but still all about C# MVC design pattern web applications. 
+Past 25 years or so I've been a Microsoft tech stack dev with a penchant for industrial automation interfacing and line of business web applications. At the end of 2021, I've gravitated towards home automation, IoT and open source; but it's still all just 1s and 0s.
 
 
 
